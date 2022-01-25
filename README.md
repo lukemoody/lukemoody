@@ -2,7 +2,7 @@
 
 Currently Senior Developer [@Mordern English](https://modernenglish.co.uk), UK.
 
-#### Tools I'm passionate about 🛠
+#### Things I'm passionate about 🛠
 
 ![](https://img.shields.io/badge/JavaScript-React-blue)
 ![](https://img.shields.io/badge/JavaScript-Next-blue)
