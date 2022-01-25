@@ -1,6 +1,6 @@
 ### Luke Moody
 
-Currently Senior Developer @ <a hre="https://modernenglish.co.uk" target="_blank">Modern English</a>, UK.
+Currently Senior Developer [@Mordern English](https://modernenglish.co.uk), UK.
 
 ##### Tools I'm passionate about 🛠
 
