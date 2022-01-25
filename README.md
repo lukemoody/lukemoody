@@ -10,11 +10,15 @@ Previously at [BGN](https://bgn.agency), [Seventy7Group](https://seventy7group.c
 ![](https://img.shields.io/badge/JavaScript-Next-blue)
 ![](https://img.shields.io/badge/JavaScript-Vue-green)
 ![](https://img.shields.io/badge/JavaScript-Nuxt-green)
-
 ![](https://img.shields.io/badge/JavaScript-Nodejs-yellow)
+
 ![](https://img.shields.io/badge/Platform-WordPress-lightgrey)
 ![](https://img.shields.io/badge/Platform-Shopify-lightgrey)
 ![](https://img.shields.io/badge/CMS-Prismic-orange)
+
+![](https://img.shields.io/badge/Language-SCSS-orange)
+![](https://img.shields.io/badge/Language-Liquid-orange)
+![](https://img.shields.io/badge/Language-JSON-orange)
 
 <!--
 **lukemoody/lukemoody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
