@@ -1,8 +1,8 @@
 ### Luke Moody 👨🏻‍💻
 
-Web Developer + Designer based in Manchester, UK [@ lukemoody.co.uk](https://lukemoody.co.uk) and currently Senior Developer [@ Mordern English](https://modernenglish.co.uk) working with brands including BBC, Universal and Sony Music.
+Web Developer + Designer based in Manchester, UK @[lukemoody.co.uk](https://lukemoody.co.uk) and currently Senior Developer @[Mordern English](https://modernenglish.co.uk) working with brands including BBC, Universal and Sony Music.
 
-Previously at [BGN](https://bgn.agency), [Seventy7Group](https://seventy7group.com), [We Are Creation](https://wearecreation.com).
+Previously @ [BGN](https://bgn.agency), [Seventy7Group](https://seventy7group.com), [We Are Creation](https://wearecreation.com).
 
 #### Things I'm passionate about 🛠
 
