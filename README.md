@@ -8,6 +8,7 @@ Currently Senior Developer @ <a hre="https://modernenglish.co.uk" target="_blank
 ![](https://img.shields.io/badge/JavaScript-Next-blue)
 ![](https://img.shields.io/badge/JavaScript-Vue-green)
 ![](https://img.shields.io/badge/JavaScript-Nuxt-green)
+
 ![](https://img.shields.io/badge/JavaScript-Nodejs-yellow)
 ![](https://img.shields.io/badge/Platform-WordPress-lightgrey)
 ![](https://img.shields.io/badge/Platform-Shopify-lightgrey)
