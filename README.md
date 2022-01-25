@@ -12,6 +12,7 @@ Currently Senior Developer [@Mordern English](https://modernenglish.co.uk), UK.
 ![](https://img.shields.io/badge/JavaScript-Nodejs-yellow)
 ![](https://img.shields.io/badge/Platform-WordPress-lightgrey)
 ![](https://img.shields.io/badge/Platform-Shopify-lightgrey)
+![](https://img.shields.io/badge/CMS-Prismic-orange)
 
 <!--
 **lukemoody/lukemoody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
