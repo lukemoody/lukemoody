@@ -19,6 +19,8 @@ Previously at [BGN](https://bgn.agency), [Seventy7Group](https://seventy7group.c
 ![](https://img.shields.io/badge/Language-SCSS-orange)
 ![](https://img.shields.io/badge/Language-Liquid-orange)
 ![](https://img.shields.io/badge/Language-JSON-orange)
+![](https://img.shields.io/badge/Language-JavaScript-orange)
+![](https://img.shields.io/badge/Language-PHP-orange)
 
 <!--
 **lukemoody/lukemoody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
