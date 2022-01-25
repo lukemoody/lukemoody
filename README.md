@@ -1,4 +1,4 @@
-### Luke Moody
+### Luke Moody 👨🏻‍💻
 
 A freelance Web Developer + Designer based in Manchester, UK [lukemoody.co.uk](https://lukemoody.co.uk) and currently Senior Developer [@Mordern English](https://modernenglish.co.uk) working with brands including BBC, Universal and Sony Music.
 
