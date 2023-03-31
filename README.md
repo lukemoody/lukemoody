@@ -7,6 +7,7 @@ Previously @ [Mordern English](https://modernenglish.co.uk), [BGN](https://bgn.a
 #### Things I'm passionate about 🛠
 
 ![](https://img.shields.io/badge/JavaScript-React-blue)
+![](https://img.shields.io/badge/JavaScript-TypeScript-blue)
 ![](https://img.shields.io/badge/JavaScript-Next-blue)
 ![](https://img.shields.io/badge/JavaScript-Vue-green)
 ![](https://img.shields.io/badge/JavaScript-Nuxt-green)
