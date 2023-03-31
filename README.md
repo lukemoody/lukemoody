@@ -1,18 +1,20 @@
 ### Luke Moody 👨🏻‍💻
 
-Web Developer + Designer based in Manchester, UK @[lukemoody.co.uk](https://lukemoody.co.uk) and currently Senior Developer @[Mordern English](https://modernenglish.co.uk) working with clients including Sony Music, Elton John and Universal.
+Founder of Thirty3 Digital, a tech-agnostic digital studio empowering brands to think out of the ordinary and push the boundaries digitally, UK @[thirty3digital.co.uk](thirty3digital.co.uk).
 
-Previously @ [BGN](https://bgn.agency), [Seventy7Group](https://seventy7group.com), [We Are Creation](https://wearecreation.com).
+Currently Frontend Developer @[Space48](https://www.space48.com/). Previously @ [Mordern English](https://modernenglish.co.uk), [BGN](https://bgn.agency), [Seventy7Group](https://seventy7group.com), [We Are Creation](https://wearecreation.com).
 
 #### Things I'm passionate about 🛠
 
 ![](https://img.shields.io/badge/JavaScript-React-blue)
+![](https://img.shields.io/badge/JavaScript-TypeScript-blue)
 ![](https://img.shields.io/badge/JavaScript-Next-blue)
 ![](https://img.shields.io/badge/JavaScript-Vue-green)
 ![](https://img.shields.io/badge/JavaScript-Nuxt-green)
 ![](https://img.shields.io/badge/JavaScript-Nodejs-yellow)
 
 ![](https://img.shields.io/badge/Platform-WordPress-lightgrey)
+![](https://img.shields.io/badge/Platform-BigCommerce-lightgrey)
 ![](https://img.shields.io/badge/Platform-Shopify-lightgrey)
 ![](https://img.shields.io/badge/CMS-Prismic-orange)
 
