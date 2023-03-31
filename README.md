@@ -1,8 +1,8 @@
 ### Luke Moody 👨🏻‍💻
 
-Web Developer + Designer based in Manchester, UK @[lukemoody.co.uk](https://lukemoody.co.uk) and currently Senior Developer @[Mordern English](https://modernenglish.co.uk) working with clients including Sony Music, Elton John and Universal.
+Web Developer + Designer based in Manchester, UK @[lukemoody.co.uk](https://lukemoody.co.uk) and currently Frontend Developer @[Space48](https://space48.com) working in SaaS eCommerce.
 
-Previously @ [BGN](https://bgn.agency), [Seventy7Group](https://seventy7group.com), [We Are Creation](https://wearecreation.com).
+Previously @ [Mordern English](https://modernenglish.co.uk), [BGN](https://bgn.agency), [Seventy7Group](https://seventy7group.com), [We Are Creation](https://wearecreation.com).
 
 #### Things I'm passionate about 🛠
 
@@ -13,6 +13,7 @@ Previously @ [BGN](https://bgn.agency), [Seventy7Group](https://seventy7group.co
 ![](https://img.shields.io/badge/JavaScript-Nodejs-yellow)
 
 ![](https://img.shields.io/badge/Platform-WordPress-lightgrey)
+![](https://img.shields.io/badge/Platform-BigCommerce-lightgrey)
 ![](https://img.shields.io/badge/Platform-Shopify-lightgrey)
 ![](https://img.shields.io/badge/CMS-Prismic-orange)
 
