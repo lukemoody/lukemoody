@@ -2,7 +2,7 @@
 
 Web Developer + Designer based in Manchester, UK @[thirty3digital.co.uk](https://www.thirty3digital.co.uk) and currently Frontend Software Developer @[Speedy Freight](https://speedyfreight.com/).
 
-Previously @ [Space48](https://space48.com), [Mordern English](https://modernenglish.co.uk), [BGN](https://bgn.agency), [Seventy7Group](https://seventy7group.com), [We Are Creation](https://wearecreation.com).
+Previously @ [Space48](https://space48.com), [Mordern English](https://modernenglish.co.uk), [BGN](https://bgn.agency), [Seventy7Group](https://seventy7group.com) and [We Are Creation](https://wearecreation.com).
 
 #### Things I'm passionate about 🛠
 
