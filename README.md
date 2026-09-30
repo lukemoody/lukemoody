@@ -1,7 +1,7 @@
 ### Luke Moody 👨🏻‍💻
 
 Senior engineer. Accidental founder. 
-Building things that may or may not work with React/Next.js / TypeScript / React Native / AI
+Building things that may or may not work with React / Next.js / TypeScript / React Native / AI.
 
 <!--
 **lukemoody/lukemoody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
