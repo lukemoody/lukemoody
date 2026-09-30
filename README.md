@@ -2,7 +2,7 @@
 
 Senior engineer. Accidental founder.\
 Building things that may or may not work with React / Next.js / TypeScript / React Native / AI.\
-Working at Sourceful, building Riverflow.ai
+Working at Sourceful, building [Riverflow.ai](https://www.riverflow.ai/).
 
 <!--
 **lukemoody/lukemoody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
